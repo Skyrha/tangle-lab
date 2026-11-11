@@ -36,4 +36,4 @@ The project documentations include:
 - Public storytelling: one interesting discovery, experiment, visual or question each week.
 - Final overview: YouTube main video at end of month (5-10 min), showing journey from question to model to result + reflection & advice.
 
-How to follow this investigation
+# How to follow this investigation:
